@@ -1,6 +1,9 @@
 {
   "name": "juros-compostos",
   "version": "0.1.0",
+  "engines": {
+    "node": "12.17.0"
+  },
   "private": true,
   "dependencies": {
     "express": "^4.17.1",
