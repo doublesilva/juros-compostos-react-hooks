@@ -3,6 +3,9 @@
 <h1>
   <img src="https://ik.imagekit.io/doublesilva/github-projects/juros-compostos-react_lIjEuKKSj.gif">
 </h1>
+<h3 align="center">
+  <a href="https://juros-compostos.herokuapp.com/">Acesse a aplicação</a>
+</h3>
 
 ## 📝Sobre
  O projeto **Juros Compostos** é um desafio realizado no módulo 3 do curso do bootcamp **[Desenvolvedor Full Stack - IGTI](https://www.igti.com.br/custom/bootcamp-desenvolvedor-full-stack/)**. Tinha por objetivo mostrar os conhecimentos em **React Hooks**.
